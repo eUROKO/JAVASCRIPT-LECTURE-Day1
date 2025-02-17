@@ -9,4 +9,4 @@ console.log(student);
 //acessing he values in an object.
 //using the dot notation.
 console.log(student.firstName);
-console.log(student.color);
+console.log(student.color); efjwnd
