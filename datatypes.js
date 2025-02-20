@@ -46,4 +46,8 @@ let person = {
 
 console.log(person);
 
+//bigInt is a type of data types that can represent a very large set that regular number datatype cannot hold
+ let valueBe = 1212121212192787298168382279846238746329854346239462198
+ console.log(valueBe)
+
 

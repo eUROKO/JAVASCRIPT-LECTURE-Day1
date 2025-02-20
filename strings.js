@@ -68,7 +68,8 @@ console.log(message.trim());
 message = "javascript is not boring";
 console.log(message.includes("at")); //returns false because at is not in the sentence
 
-//convert a string to an array
+//convert a string to an array using the split method
 let items = "pen, paper, tables, chair";
 console.log(items);
 console.log(items.split(" ")); // arrays are denoted with square brackets [] 
+

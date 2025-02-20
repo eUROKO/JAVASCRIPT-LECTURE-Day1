@@ -47,11 +47,11 @@ console.log(phone);
 //global scope and block scoped variables
 
 //global scope e.g
-let a = 40;
+let a = 100;
 console.log(a);
 
 //block scope
 {
-  let a = 50; //     a is unaffected because its in a blocked scope which is always started with a {curly bracket}
+  let a = 150; //     a is unaffected because its in a blocked scope which is always started with a {curly bracket}
   console.log(a);
 }
