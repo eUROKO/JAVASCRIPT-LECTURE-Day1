@@ -26,7 +26,7 @@ console.log(student);
 delete student.time;
 console.log(student);
 
-// im method - this checks if a property exist in an object.
+// in method - this checks if a property exist in an object.
 console.log("frank" in student); //returns false since we don't have a property/key named frank
 console.log("color" in student); // return true cos we have color in student object
 
@@ -90,5 +90,6 @@ console.log(Animal);
 console.log(Object.entries(Animal));
 
 let snake = Object.create(Animal);
-(snake.name = "Python"), (snake.bark = false);
+snake.name = "Python"
+snake.bark = false
 console.log(snake);
