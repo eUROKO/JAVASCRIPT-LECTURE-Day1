@@ -1,6 +1,6 @@
 //if and else statement
 //if statement evaluate statement in a bracket
-//use if statement , if the condition to be executed is true, while use else if the same condition to be executed is false.
+//use "if "statement , if the condition to be executed is true, while use "else if" the same condition to be executed is false.
 //additionally, we have elseIf, used to specify a new condition to be tested if the first condition fails.
 
 //structure of the ifElse
@@ -33,10 +33,10 @@ if (checkAmount >= 1200) {
 //=========================================>>>>>>>>>>>>>>>>>>>
 //write a code that prompt a question.
 //the question should say "who is there?"
-// if question reply says "Dami", the it should prompt for a password
-//if the question reply id not "Dami", it should alert "I dont know you"
+// if question reply says "Dami", then it should prompt for a password
+//if the question reply is not "Dami", it should alert "I dont know you"
 // if the password is "Javascript", alert " welcome User"
-//if the password is not "javascript" , alert "wrong password"
+//if the password is not "Javascript" , alert "wrong password"
 //if there is no answer to our question, then we alert "cancelled"
 
 // let q = prompt("Who is there");
